@@ -1,6 +1,6 @@
 
 #Smart Contract
 
-Wiz-Token
+Ramenboy-Token
 
 An ethereum token based on the ERC-20 token standard
